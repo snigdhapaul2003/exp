@@ -279,7 +279,7 @@ body {
   animation-delay: 1.2s;
 }
 .container-preloader .loader-section {
-  background-image: url("bg3.jpg"); background-size: cover;height: 100%;
+  background-image: url("https://ik.imagekit.io/hccx8arw3i/hitk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667557368763"); background-size: cover;height: 100%;
   position: fixed;  top: 0;  width: 100vw;
 }
 .container-preloader .loader-section.section-left {
